@@ -6,6 +6,8 @@ authors = ["superoverflow <cyrus.tang@superoverflow.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+selenium = "^4.4.3"
+chromedriver-py = "^105.0.5195.52"
 
 [tool.poetry.dev-dependencies]
 
